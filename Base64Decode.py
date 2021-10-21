@@ -2,7 +2,7 @@ import base64
 
 key = input(("Please input the Base64 Key: "))
 
-#key = "REY1NExqZVJ2OEVGMGo0OHRvSW5FMVFYM01KZi1pSlhld0VobnFSWXBVc0cwRDFSOlk3VkJDZ2JZeXpWWjFWOHZ6M29GWE9sWkVUS2dvaUVRc245R1U1V1ppaU4xNFl4ZA=="
+#key = ""
 
 encode_key = key.encode('ascii')
 m_bytes = base64.standard_b64decode(encode_key)
