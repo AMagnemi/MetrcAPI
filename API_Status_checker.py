@@ -15,8 +15,8 @@ state = 'ca'
 base_url = 'https://sandbox-api-{}.metrc.com'.format(state)
 
 
-vend_key = 'vlURDoJQFcmHqm0hrvM9sY7pBG5HKv9DM5tminVsQGiWF7Dq'
-user_key = 'hFS1854W-VjEIZZ0Ale8GfkW5Uv8zWNP-e4YGo3unBnIcuHE'
+vend_key = ''
+user_key = ''
 metrc_license = ''
 api_endpoint = '/facilities/v1'
 
